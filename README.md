@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Discord Bots in Python
 - 🌱 I’m currently learning C in my education
-- 📫 How to reach me: [Discord](https://github.com/Puncher1/Puncher1/tree/main#discord-profile)
+- 📫 How to reach me: [Discord](https://github.com/Puncher1/Puncher1#discord-profile)
 
 # Languages and Tools:
 <img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" />
