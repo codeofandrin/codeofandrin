@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Puncher
 
-- 🔭 I’m currently working on Discord Bots in Python
+- 🔭 I’m currently working on [Testing](https://github.com/Puncher1/Testing) and RLH-Moderator
 - 🌱 I’m currently learning C in my education
 - 📫 How to reach me: [Discord](https://github.com/Puncher1#discord-profile)
 
