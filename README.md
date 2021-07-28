@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Puncher
 
-- 🔭 I’m currently working on [LLarry](https://github.com/Puncher1/LLarry) and RLH-Moderator
+- 🔭 I’m currently working on [Zap!](https://github.com/Puncher1/Zap) and RLH-Moderator
 - 🌱 I’m currently learning C in my education
 - 📫 How to reach me: [Discord](https://github.com/Puncher1#discord-profile)
 
