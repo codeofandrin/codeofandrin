@@ -17,6 +17,7 @@
 <img align="left" alt="Github" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
 <br />
 <br />
+
 # Stats
 ![Metrics](https://metrics.lecoq.io/Puncher1?template=classic&languages=1&introduction=1&lines=1&activity=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&activity.limit=3&activity.load=300&activity.days=3&activity.filter=all&activity.visibility=public&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FZurich)
 # Discord Profile
