@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Puncher
 
-- 🔭 I’m currently working on [Zap!](https://github.com/Puncher1/Zap) and RLH-Moderator
-- 🌱 I’m currently learning C in my education
+- 🔭 I’m currently working on [Timmy-SchoolSimplified](https://github.com/Puncher1/Timmy-SchoolSimplified)
+- 🌱 I’m currently learning Microcontroller programming
 - 📫 How to reach me: [Discord](https://github.com/Puncher1#discord-profile)
 
 # Languages and Tools:
