@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Puncher
 
 - 🔭 I’m currently working on [Timmy-SchoolSimplified](https://github.com/Puncher1/Timmy-SchoolSimplified)
-- 🌱 I’m currently learning Microcontroller programming
+- 🌱 I’m currently learning Microcontroller programming and Lua
 - 📫 How to reach me: [Discord](https://github.com/Puncher1#discord-profile)
 
 # Languages and Tools:
