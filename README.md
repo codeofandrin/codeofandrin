@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Puncher
 
-- 🔭 I’m currently working on [Timmy-SchoolSimplified](https://github.com/School-Simplified/Timmy-SchoolSimplified) and [Swift](https://github.com/Puncher1/Swift)
+- 🔭 I’m currently working on [Timmy-SchoolSimplified](https://github.com/School-Simplified/Timmy-SchoolSimplified)
 - 🌱 I’m currently learning Microcontroller programming and Swift (iOS App Development)
 - 📫 How to reach me: [Discord](https://github.com/Puncher1#discord-profile)
 
