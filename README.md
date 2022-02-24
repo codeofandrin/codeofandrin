@@ -9,9 +9,8 @@
 <img align="left" alt="Pycord" width="36px" src="https://avatars.githubusercontent.com/u/89700626?v=4" />
 <img align="left" alt="C" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="MySQL" width="36px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" />
-<img align="left" alt="XCode" width="36px" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" />
 <img align="left" alt="Git" width="36px" src="https://garygregory.files.wordpress.com/2016/11/git_logo.png?w=325" />
-<img align="left" alt="Github" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" />
+<img align="left" alt="Github" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 <br />
 <br />
 
