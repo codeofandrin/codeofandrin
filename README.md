@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Puncher
 
 - 🔭 I’m currently working on [Timmy-SchoolSimplified](https://github.com/School-Simplified/Timmy-SchoolSimplified)
-- 🌱 I’m currently learning XML 
+- 🌱 I’m currently learning Website Development 
 - 📫 How to reach me: [Discord](https://github.com/Puncher1#discord-profile), [E-Mail](mailto:andrin.schaller@hispeed.ch)
 
 # Languages and Tools:
