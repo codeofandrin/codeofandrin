@@ -90,4 +90,4 @@ Swift                    1 repo              █░░░░░░░░░░�
  Last Updated on 02/06/2022 12:22:42 UTC
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puncher1&langs_count=8)](https://github.com/puncher1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puncher1&theme=github_dark)](https://github.com/puncher1/github-readme-stats)
