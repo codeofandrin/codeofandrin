@@ -14,7 +14,7 @@
 <br />
 <br />
 
-# Stats
+# Statistics
 ![GithubActivity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puncher1&theme=solarized_dark)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
