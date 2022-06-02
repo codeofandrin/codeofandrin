@@ -79,4 +79,5 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 [![Puncher's GitHub stats](https://github-readme-stats.vercel.app/api?username=puncher1)](https://github.com/puncher1)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puncher1&langs_count=10&theme=prussian)](https://github.com/puncher1/)
