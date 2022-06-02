@@ -78,4 +78,5 @@ No Activity Tracked This Week
  Last Updated on 02/06/2022 12:29:18 UTC
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puncher1&langs_count=10&theme=prussian)](https://github.com/puncher1/github-readme-stats)
+[![Puncher's GitHub stats](https://github-readme-stats.vercel.app/api?username=puncher1)](https://github.com/puncher1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puncher1&langs_count=10&theme=prussian)](https://github.com/puncher1/)
