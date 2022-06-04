@@ -64,18 +64,21 @@ Sunday       151 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   32 mins             ████████████████████████░   95.5% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  32 mins             ████████████████████████░   95.5% 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.5%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  33 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 03/06/2022 01:06:06 UTC
+ Last Updated on 04/06/2022 01:08:15 UTC
 <!--END_SECTION:waka-->
 
 [![Puncher's GitHub stats](https://github-readme-stats.vercel.app/api?username=puncher1&theme=prussian)](https://github.com/puncher1)
