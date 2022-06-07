@@ -84,6 +84,4 @@ Windows                  4 hrs 38 mins       ███████████�
  Last Updated on 07/06/2022 01:08:53 UTC
 <!--END_SECTION:waka-->
 
-[![Puncher's GitHub stats](https://github-readme-stats.vercel.app/api?username=puncher1&theme=prussian)](https://github.com/puncher1)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puncher1&langs_count=10&theme=prussian)](https://github.com/puncher1/)
