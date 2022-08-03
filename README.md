@@ -7,6 +7,9 @@
 # Languages and Tools:
 <img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" />
 <img align="left" alt="Discord.py" width="36px" src="https://i.imgur.com/RPrw70n.jpg" />
+<img align="left" alt="HTML" width="36px" src="https://icon-library.com/images/html5-icon-png/html5-icon-png-9.jpg" />
+<img align="left" alt="CSS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" />
+<img align="left" alt="JS" width="36px" src="https://fedojo.com/wp-content/uploads/2019/03/logo-javascript-png-html-code-allows-to-embed-javascript-logo-in-your-website-587.png" />
 <img align="left" alt="C" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" alt="MySQL" width="36px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" />
 <img align="left" alt="Git" width="36px" src="https://garygregory.files.wordpress.com/2016/11/git_logo.png?w=325" />
