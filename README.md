@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Puncher
 
-- 🔭 I’m currently working on [Timmy-SchoolSimplified](https://github.com/School-Simplified/Timmy-SchoolSimplified)
-- 🌱 I’m currently learning [Website Development](https://github.com/Puncher1/website-development)
-- 📫 How to reach me: [Discord](https://github.com/Puncher1#discord-profile), [Mail](mailto:andrin.schaller@hispeed.ch)
+📫 How to reach me: [Discord](https://github.com/Puncher1#discord-profile), [Mail](mailto:andrin.schaller@hispeed.ch)
 
 # Languages and Tools:
 <img align="left" alt="Python" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png" />
