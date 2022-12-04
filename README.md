@@ -13,7 +13,7 @@
 
 <br>
 
-🎓 - Self-thaught **Pythoneer** <br>
+🎓 - Self-taught **Pythoneer** and trainee as an **Electronics Technician**<br>
 🌍 - Using my own **Ubuntu Home Server** as my environment <br>
 👨‍💻 - Contributed to projects like [Timmy](https://github.com/School-Simplified/Timmy-SchoolSimplified) and worked as a Discord Bot Development Manager at [SchoolSimplified](https://schoolsimplified.org) <br>
 💡 - Learning **Web Development** <br>
