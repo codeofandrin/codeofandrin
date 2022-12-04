@@ -40,7 +40,7 @@
 
 **Microcontroller-Programming**<br>
 [![C](https://img.shields.io/badge/-C-09313c?style=flat&logo=c&logoColor=white&labelColor=00589c)](https://en.wikibooks.org/wiki/C_Programming)
-[![STM32](https://img.shields.io/badge/-STM32-09313c?style=flat&logo=stmicroelectronics&logoColor=03234b&labelColor=white)](https://www.st.com/)
+[![STM](https://img.shields.io/badge/-STM-09313c?style=flat&logo=stmicroelectronics&logoColor=03234b&labelColor=white)](https://www.st.com/)
 
 **Versioning**<br>
 [![Git](https://img.shields.io/badge/-Git-09313c?style=flat&logo=git)](https://git-scm.com/)
@@ -51,6 +51,7 @@
 [![PyCharm](https://img.shields.io/badge/-PyCharm-09313c?style=flat&logo=pycharm&logoColor=black&labelColor=8fe272)](https://www.jetbrains.com/pycharm/)
 [![WebStorm](https://img.shields.io/badge/-WebStorm-09313c?style=flat&logo=webstorm&logoColor=black&labelColor=10a8d7)](https://www.jetbrains.com/webstorm/)
 [![DataGrip](https://img.shields.io/badge/-DataGrip-09313c?style=flat&logo=datagrip&logoColor=black&labelColor=9386da)](https://www.jetbrains.com/datagrip/)
+[![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-09313c?style=flat&logo=stmicroelectronics&logoColor=03234b&labelColor=white)](https://www.st.com/en/development-tools/stm32cubeide.html)
 
 **Operating Systems**<br>
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-09313c?style=flat&logo=ubuntu)](https://ubuntu.com/)
