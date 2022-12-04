@@ -1,9 +1,13 @@
-### Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">, I'm Andrin
+<img align="right" width="150px" src="https://user-images.githubusercontent.com/65789180/205502494-25aca2fb-0a00-47c0-b36b-8d9620b4bd5f.png">
+
+## Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
+**My name is Andrin and I love to code, learn new tech-things and constantly expand my knowledge.**
+
 🎓 - Self-thaught **Pythoneer** <br>
 🌍 - Using my own **Ubuntu Home Server** as my environment <br>
 👨‍💻 - Contributed to projects like [Timmy](https://github.com/School-Simplified/Timmy-SchoolSimplified) and worked as a Discord Bot Development Manager at [SchoolSimplified](https://schoolsimplified.org) <br>
 💡 - Learning **Web Development** <br>
-📈 - Constantly building up knowledge in **Networking** and **Cyber Security**
+📈 - Expanding my knowledge in **Networking** and **Cyber Security**
 
 <br>
 
