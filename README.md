@@ -1,7 +1,17 @@
 <br>
 
-## Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px">
-**My name is Andrin and I love to code, learn new tech-things and constantly expand my knowledge.**
+<h2 align="center">Hi there! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px"></h2>
+
+<p align="center">
+  <b>My name is Andrin and I love to code, learn new tech-things and constantly expand my knowledge.</b><br><br>
+  <a align="center" href="mailto:andrin.schaller@hispeed.ch"><img src="https://img.shields.io/badge/-Mail-09313c?style=flat&logo=maildotru&logoColor=b5b5b5"></a>
+  <a align="center" href="https://discord.com/users/305354423801217025"><img src="https://img.shields.io/badge/-Discord-09313c?style=flat&logo=discord"></a>
+  <a align="center" href="https://stackoverflow.com/users/13508045/puncher?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-09313c?style=flat&logo=stackoverflow"></a>
+  <a align="center" href="https://www.fiverr.com/puncher1"><img src="https://img.shields.io/badge/-Fiverr-09313c?style=flat&logo=fiverr"></a>
+  
+</p>
+
+<br>
 
 🎓 - Self-thaught **Pythoneer** <br>
 🌍 - Using my own **Ubuntu Home Server** as my environment <br>
