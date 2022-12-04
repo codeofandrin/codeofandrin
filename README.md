@@ -13,11 +13,12 @@
 
 <br>
 
-🎓 - Self-taught **Pythoneer** and trainee as an **Electronics Technician**<br>
+🎓 - Self-taught **Pythoneer** <br>
 🌍 - Using my own **Ubuntu Home Server** as my environment <br>
 👨‍💻 - Contributed to projects like [Timmy](https://github.com/School-Simplified/Timmy-SchoolSimplified) and worked as a Discord Bot Development Manager at [SchoolSimplified](https://schoolsimplified.org) <br>
 💡 - Learning **Web Development** <br>
-📈 - Expanding my knowledge in **Networking** and **Cyber Security**
+📈 - Expanding my knowledge in **Networking** and **Cyber Security** <br>
+<img src="https://user-images.githubusercontent.com/65789180/205508012-003fada5-ac70-40be-a6fe-bbb9d54d98eb.png" width="21px" align="center"> - **Electronics Technician** Trainee <br>
 
 <br>
 
