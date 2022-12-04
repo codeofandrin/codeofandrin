@@ -51,7 +51,9 @@
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-09313c?style=flat&logo=tryhackme)](https://tryhackme.com/)
 
 
-# Statistics
+## 📊 Statistics
 ![GithubActivity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puncher1&theme=solarized_dark)
+
+<img alt="Puncher GH Stats" src="https://github-readme-stats.vercel.app/api?username=puncher1&show_icons=true&bg_color=300,19166f,8976ee&title_color=ffffff&icon_color=e80bc3&text_color=6b88cf&border_color=2e2d55&border_radius=8&count_private=true&hide=stars&include_all_commits=true">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puncher1&langs_count=10&theme=prussian)](https://github.com/puncher1/)
