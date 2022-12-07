@@ -46,7 +46,6 @@
 **Versioning**<br>
 [![Git](https://img.shields.io/badge/-Git-09313c?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-09313c?style=flat&logo=github)](https://github.com/)
-[![SVN](https://img.shields.io/badge/-SVN-09313c?style=flat&logo=subversion)](https://subversion.apache.org/)
 
 **IDEs**<br>
 [![PyCharm](https://img.shields.io/badge/-PyCharm-09313c?style=flat&logo=pycharm&logoColor=black&labelColor=8fe272)](https://www.jetbrains.com/pycharm/)
