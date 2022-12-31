@@ -7,7 +7,6 @@
   <a align="center" href="mailto:andrin.schaller@hispeed.ch"><img src="https://img.shields.io/badge/-Mail-09313c?style=flat&logo=maildotru&logoColor=b5b5b5"></a>
   <a align="center" href="https://discord.com/users/305354423801217025"><img src="https://img.shields.io/badge/-Discord-09313c?style=flat&logo=discord"></a>
   <a align="center" href="https://stackoverflow.com/users/13508045/puncher?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-09313c?style=flat&logo=stackoverflow"></a>
-  <a align="center" href="https://www.fiverr.com/puncher1"><img src="https://img.shields.io/badge/-Fiverr-09313c?style=flat&logo=fiverr"></a>
   
 </p>
 
