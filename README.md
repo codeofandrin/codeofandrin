@@ -38,11 +38,11 @@
 [![Flask](https://img.shields.io/badge/-Flask-09313c?style=flat&logo=flask)](https://flask.palletsprojects.com/en/2.2.x/)
 [![Qt](https://img.shields.io/badge/-Qt-09313c?style=flat&logo=qt)](https://www.qt.io/)
 
-**Microcontroller-Programming**<br>
+**Embedded Programming**<br>
 [![C](https://img.shields.io/badge/-C-09313c?style=flat&logo=c&logoColor=white&labelColor=00589c)](https://en.wikibooks.org/wiki/C_Programming)
 [![STM](https://img.shields.io/badge/-STM-09313c?style=flat&logo=stmicroelectronics&logoColor=03234b&labelColor=white)](https://www.st.com/)
 
-**Versioning**<br>
+**Version Control**<br>
 [![Git](https://img.shields.io/badge/-Git-09313c?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-09313c?style=flat&logo=github)](https://github.com/)
 
