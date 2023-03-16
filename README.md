@@ -56,14 +56,6 @@
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-09313c?style=flat&logo=ubuntu)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/-Windows-09313c?style=flat&logo=windows&logoColor=00adef)](https://www.microsoft.com/windows)
 
-**Services**<br>
-[![namecheap](https://img.shields.io/badge/-Namecheap-09313c?style=flat&logo=namecheap&logoColor=fb5e09)](https://namecheap.com/)
-
-**Learning Platforms**<br>
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-09313c?style=flat&logo=stackoverflow)](https://stackoverflow.com/)
-[![Codecademy](https://img.shields.io/badge/-Codecademy-09313c?style=flat&logo=codecademy&logoColor=131c37&labelColor=white)](https://www.codecademy.com/)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-09313c?style=flat&logo=tryhackme)](https://tryhackme.com/)
-
 <br>
 
 ## 📊 Statistics
