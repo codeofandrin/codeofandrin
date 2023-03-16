@@ -14,7 +14,7 @@
 
 🎓 - Self-taught **Pythoneer** <br>
 🌍 - Having my own **Ubuntu Home Server** to host my programs<br>
-👨‍💻 - Worked as a Discord Bot Development Manager at [SchoolSimplified](https://schoolsimplified.org) <br>
+👨‍💻 - Volunteered as a Bot Development Manager at [SchoolSimplified](https://schoolsimplified.org) <br>
 💡 - Learning **Web Development** <br>
 📈 - Expanding my knowledge in **Networks** and **Cyber Security** <br>
 💼 - **Electronics Technician** Trainee <br>
