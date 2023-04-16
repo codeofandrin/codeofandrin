@@ -12,7 +12,6 @@
 <br>
 
 🎓 - Self-taught **Pythoneer** <br>
-🌍 - Having my own **Ubuntu Home Server** to host my programs<br>
 👨‍💻 - Volunteered as a Bot Development Manager at [SchoolSimplified](https://schoolsimplified.org) <br>
 💡 - Learning **Web Development** <br>
 📈 - Expanding my knowledge in **Networking** and **Cyber Security** <br>
