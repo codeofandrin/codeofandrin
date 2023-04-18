@@ -6,16 +6,15 @@
   <b>My name is Andrin and I love to code, learn new tech-things and constantly expand my knowledge.</b><br><br>
     <a align="center" href="https://stackoverflow.com/users/13508045/puncher?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-09313c?style=flat&logo=stackoverflow"></a>
   <a align="center" href="https://discord.com/users/305354423801217025"><img src="https://img.shields.io/badge/-Discord-09313c?style=flat&logo=discord"></a>
-  
 </p>
 
 <br>
+<samp> 
+I'm an avid Python programmer who mostly programs Discord Bots and interacting with APIs. Currently learning Web Development and expanding my knowledge in Networking and Cyber Security.<br>
 
-🎓 - Self-taught **Pythoneer** <br>
-👨‍💻 - Volunteered as a Bot Development Manager at [SchoolSimplified](https://schoolsimplified.org) <br>
-💡 - Learning **Web Development** <br>
-📈 - Expanding my knowledge in **Networking** and **Cyber Security** <br>
-💼 - **Electronics Technician** Trainee <br>
+</samp>
+
+
 
 <br>
 
