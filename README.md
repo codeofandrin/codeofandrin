@@ -8,7 +8,7 @@
   <a align="center" href="https://discord.com/users/305354423801217025"><img src="https://img.shields.io/badge/-Discord-09313c?style=flat&logo=discord"></a>
   <a align="center" href="https://www.fiverr.com/share/Z993pR"><img src="https://img.shields.io/badge/-Fiverr-09313c?style=flat&logo=fiverr"></a>
 </p>
-https://www.fiverr.com/share/Z993pR?utm_source=CopyLink_Mobile
+
 <br>
 <samp> 
 I'm an avid Python programmer, mostly programming Discord Bots and interacting with APIs. Currently learning Web Development and expanding my knowledge in Networking and Cyber Security.<br>
