@@ -11,7 +11,7 @@
 
 <br>
 <samp> 
-I'm an avid 18 year old Python programmer, mostly programming Discord Bots and interacting with APIs. Currently learning Web Development and expanding my knowledge in Networking and Cyber Security.<br>
+I'm an avid 18 year old Python programmer, mostly interacting with APIs. Currently learning Web Development and Networking.<br>
 
 </samp>
 
