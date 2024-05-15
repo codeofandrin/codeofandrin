@@ -10,7 +10,7 @@
 
 <br>
 <samp> 
-I'm an avid 18 year old Python programmer, mostly interacting with APIs. Currently learning Web Development and Networking.<br>
+I'm an avid 19 year old Python programmer, mostly interacting with APIs. Currently learning Web Development and Networking.<br>
 
 </samp>
 
