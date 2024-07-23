@@ -9,7 +9,7 @@
 
 <br>
 <samp> 
-I'm an avid 19 year old Python programmer, mostly interacting with APIs. Currently learning Web Development and Networking.<br>
+I'm a passionate 19-year-old Firmware Developer programming in C and a Python Programmer, primarily working with APIs. Currently, I'm learning web development.<br>
 
 </samp>
 
