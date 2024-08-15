@@ -9,8 +9,11 @@
 
 <br>
 <samp> 
-  I'm a 19-year-old software developer, proficient in firmware development and Python enthusiast. I primarily work with APIs and also do some web development.<br><br>
-  Check out some of the pinned projects I've worked on below.
+  I'm a 19-year-old software developer, proficient in firmware development and Python enthusiast. I primarily work with APIs and also do some web development.
+  <br>
+  <br>
+  👇 Check out some of the pinned projects I've worked on below.
+<br>
 <br>
 
 ## 📊 Statistics
