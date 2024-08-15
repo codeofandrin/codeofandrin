@@ -9,8 +9,7 @@
 
 <br>
 <samp> 
-I'm a passionate 19-year-old Firmware Developer programming in C and Python Programmer, primarily working with APIs. Currently, I'm learning web development.<br>
-
+I'm a 19-year-old software developer, proficient in firmware development and Python enthusiast. I primarily work with APIs and also do some web development.<br>
 </samp>
 
 
