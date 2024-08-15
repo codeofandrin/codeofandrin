@@ -2,18 +2,15 @@
 
 <h2 align="center">Hi there! 👋</h2>
 
-<p align="center">
-  <b>My name is Andrin and I love to code, learn new tech-things and constantly expand my knowledge.</b><br><br>
+<p align="center">   
+  <b>My name is Andrin and I love to code with a passion for exploring new tech-things and constantly growing my skill set.</b><br><br>
   <a align="center" href="https://stackoverflow.com/users/13508045/puncher?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-09313c?style=flat&logo=stackoverflow"></a>
 </p>
 
 <br>
 <samp> 
-I'm a 19-year-old software developer, proficient in firmware development and Python enthusiast. I primarily work with APIs and also do some web development.<br>
-</samp>
-
-
-
+  I'm a 19-year-old software developer, proficient in firmware development and Python enthusiast. I primarily work with APIs and also do some web development.<br><br>
+  Check out some of the pinned projects I've worked on below.
 <br>
 
 ## 📊 Statistics
