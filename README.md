@@ -4,7 +4,8 @@
 
 <p align="center">   
   <b>My name is Andrin and I love to code with a passion for exploring new tech-things and constantly growing my skill set.</b><br><br>
-  <a align="center" href="https://stackoverflow.com/users/13508045/puncher?tab=profile"><img src="https://img.shields.io/badge/-StackOverflow-09313c?style=flat&logo=stackoverflow"></a>
+  <a align="center" href="https://stackoverflow.com/users/13508045/andrin?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a align="center" href="https://wakatime.com/@codeofandrin"><img src="https://img.shields.io/badge/WakaTime-FFFFFF?style=for-the-badge&logo=WakaTime&logoColor=black"></a>
 </p>
 
 <br>
