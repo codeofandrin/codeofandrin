@@ -11,7 +11,7 @@
 
 <br>
 <samp> 
-  I'm a software developer, professionally developing microcontroller firmware. In addition, I'm a Python enthusiast, primarily working with APIs and also do some web development as hobbies.
+  I'm a software developer, professionally developing STM32 and Renesas microcontroller firmware. In addition, I'm a Python enthusiast, primarily working with APIs and also do some web development as hobbies.
   <br>
   <br>
   👇 Check out some of the pinned projects I've worked on below.
