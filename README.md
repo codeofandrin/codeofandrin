@@ -5,7 +5,7 @@
 <p align="center">   
   <b>My name is Andrin and I love to code with a passion for exploring new tech-things and constantly growing my skill set.</b><br><br>
   <a align="center" href="mailto:mail@andrin.software"><img src="https://img.shields.io/badge/E--Mail-1e78f3?style=for-the-badge&logoColor=white"></a>
-  <a align="center" href="buymeacoffee.com/andrin.software"><img width="100" src="https://github.com/user-attachments/assets/649949e3-c891-450d-aa2a-7879bdbeb55c" /></a>
+  <a align="center" href="https://buymeacoffee.com/andrin.software"><img width="100" src="https://github.com/user-attachments/assets/649949e3-c891-450d-aa2a-7879bdbeb55c" /></a>
 </p>
 
 <samp> 
