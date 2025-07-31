@@ -22,6 +22,9 @@
 ## 📊 Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeofandrin&layout=compact&bg_color=125,19166f,8976ee&title_color=ffffff&text_color=6b88cf&border_color=2e2d55&border_radius=8&hide=batchfile,ruby,lua&langs_count=10)
 
+
+### Coding Time - Last Month
+
 <!--START_SECTION:waka-->
 
 ```txt
