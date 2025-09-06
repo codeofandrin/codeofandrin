@@ -9,8 +9,8 @@
 </p>
 
 <samp>
-  I worked as a junior software engineer, developing low-level firmware in C for STM32 and Renesas microcontrollers and in September, I will begin my bachelor's degree in computer science.
-  As hobbies, I enjoy working on web development and Python projects, such as APIs and automation.
+  I'm a Computer Science Student and former junior software engineer, developing low-level firmware in C for STM32 and Renesas microcontrollers.
+  As hobbies, I enjoy working on web development and Python projects.
 
   <br>
   <br>
