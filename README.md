@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hi, I'm Andrin</h2>
 
 <p align="center">   
-  <b>Computer Science Student and Hobby Programmer</b><br><br>
+  <b>Computer Science Student and Junior Software Engineer</b><br><br>
   <a align="center" href="mailto:mail@andrin.software"><img src="https://img.shields.io/badge/E--Mail-1e78f3?style=for-the-badge&logoColor=white"></a>
   <a align="center" href="https://buymeacoffee.com/andrin.software"><img width="100" src="https://github.com/user-attachments/assets/649949e3-c891-450d-aa2a-7879bdbeb55c" /></a>
 </p>
