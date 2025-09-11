@@ -4,7 +4,7 @@
 
 <p align="center">   
   <b>Computer Science Student and Junior Software Engineer</b><br><br>
-  <a align="center" href="https://andrin.software">andrin.software</a>
+  <a align="center" target="_blank" href="https://andrin.software">andrin.software</a>
 </p>
 <br>
 <samp>
