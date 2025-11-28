@@ -8,7 +8,7 @@
 </p>
 <br>
 <samp>
-  I'm a computer science student and former junior software engineer, developing low-level firmware in C for STM32 and Renesas microcontrollers.
+  I'm a computer science student and former junior software engineer, where I developed low-level firmware in C for STM32 and Renesas microcontrollers.
   As hobbies, I enjoy working on web development and Python projects.
 
   <br>
