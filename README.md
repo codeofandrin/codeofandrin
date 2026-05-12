@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm Andrin</h2>
 
 **Software Engineer | BSc Computer Science Student**<br>
-➡️ Contact: [andrin.software](https://andrin.software)
+[andrin.software](https://andrin.software)
 
 <br>
 
