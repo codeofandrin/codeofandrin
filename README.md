@@ -1,5 +1,3 @@
-<br>
-
 ## 👋 Hi, I'm Andrin</h2>
 
 **Software Engineer | BSc Computer Science Student**<br>
